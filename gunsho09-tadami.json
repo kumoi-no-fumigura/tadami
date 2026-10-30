@@ -1,10 +1,15 @@
 {
- "work": "忠見集",
+ "work": "忠見集（群書類従本）",
  "work_id": "gunsho09-tadami",
  "repo": "kumoi-no-fumigura/tadami",
  "yomi": "ただみしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期（10世紀）",
+  "author": "壬生忠見",
+  "desc": "三十六歌仙の一人、壬生忠見の家集。名所を描いた屏風の歌が多く、贈答の歌も収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -2208,6 +2213,6 @@
   "poems": 192,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
